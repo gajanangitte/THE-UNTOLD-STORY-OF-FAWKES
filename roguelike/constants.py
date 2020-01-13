@@ -13,10 +13,10 @@ CELL_HEIGHT = 32
 GAME_FPS = 60
 
 #MAP VARS
-MAP_WIDTH = 70
-MAP_HEIGHT = 70
+MAP_WIDTH = 100
+MAP_HEIGHT = 100
 MAP_MAX_NUM_ROOMS = 25
-MAP_NUM_LEVELS = 8
+MAP_NUM_LEVELS = 10
 
 #ROOM LIMITATIONS
 ROOM_MAX_HEIGHT = 7
@@ -50,7 +50,7 @@ NUM_MESSAGES = 4
 
 FONT_TITLE_SCREEN_OUTLINE = pygame.font.Font("data/harry_p.ttf", 49)
 FONT_TITLE_SCREEN = pygame.font.Font("data/harry_p.ttf", 48)
-FONT_CREDITS = pygame.font.Font("data/harry_p.ttf", 19)
+FONT_CREDITS = pygame.font.Font("data/harry_p.ttf", 25)
 FONT_DEBUG_MESSAGE = pygame.font.Font("data/joystix monospace.ttf", 16)
 FONT_MESSAGE_TEXT =  pygame.font.Font("data/joystix monospace.ttf", 12)
 FONT_CURSOR_TEXT =  pygame.font.Font("data/joystix monospace.ttf", CELL_HEIGHT)
