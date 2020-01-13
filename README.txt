@@ -1,16 +1,21 @@
-###############################################################################
-##A Harry Potter Game Made using python, pygame, doryen and dawnlike library ##
-###############################################################################
+#######################################################################################################################################
+#######################################################################################################################################
+################################################ A Harry Potter Game ##################################################################
+################################# Made using Python, Pygame, Doryen and Dawnlike library #############################################
+#######################################################################################################################################
+#######################################################################################################################################
+#######################################################################################################################################
 
-***__ No copyright infringement intended
+  No copyright infringement intended
   ALL RIGHTS RESERVED WITH WARNER BROS. AND J K ROWLING
 NOTE: THIS IN NOT A ROGUELIKE
   
-_______________SPECIAL THANKS TO 
-  ROGUEBASIN
-  MICHEAL COATES who designed his super-awesome lectures on game-programming,
-  JUKEDROP
-  8ICONS.COM
+_______________SPECIAL THANKS TO_______________________________________________________________________________
+ 1. ROGUEBASIN
+ 2. MICHEAL COATES who designed his super-awesome lectures on game-programming,
+ 3. JUKEDROP
+ 4. 8ICONS.COM
+ 5. JKR for composing the Wizarding World
  
  You play as Fawkes the Phoenix and you have to save Harry James Potter.
  Gear up through levels and randomly generated rooms to experience a new thrill every time you enter the game.
