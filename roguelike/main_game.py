@@ -80,7 +80,7 @@ class struc_Assets:
         self.MAIN_MENU_BG = pygame.transform.scale(self.MAIN_MENU_BG, (constants.CAMERA_WIDTH, constants.CAMERA_HEIGHT))
         self.ENDGAME = pygame.image.load("data/endgame.jpg")
         self.ENDGAME = pygame.transform.scale(self.ENDGAME, (constants.CAMERA_WIDTH , constants.CAMERA_HEIGHT))
-        self.ENDGAME2 = pygame.image.load("data/endgame.png")
+        self.ENDGAME2 = pygame.image.load("data/endgame3.jpg")
         self.ENDGAME2 = pygame.transform.scale(self.ENDGAME2, (constants.CAMERA_WIDTH , constants.CAMERA_HEIGHT))
         self.ENDGAME3 = pygame.image.load("data/endgame3.jpg")
         self.ENDGAME3 = pygame.transform.scale(self.ENDGAME3, (constants.CAMERA_WIDTH , constants.CAMERA_HEIGHT))
@@ -1061,6 +1061,8 @@ def death_player(player):
     pygame.time.delay(2000)
 
     SURFACE_MAIN.blit(ASSETS.ENDGAME, (0,0))
+
+    pygame.time.delay(2000)
 
     pygame.display.update()
 
